@@ -1,0 +1,5 @@
+print('mis hobies son: ')
+print('karate')
+print('leer')
+print('musica')
+print('programar')
